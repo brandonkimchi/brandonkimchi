@@ -1,9 +1,9 @@
 ###
 
 <br>
-<img src='https://github-readme-stats.vercel.app/api?username=brandonkimchi&theme=material-palenight&show_icons=true&hide_border=true&count_private=true' >
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=brandonkimchi&theme=material-palenight&hide_border=true' >
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=brandonkimchi&theme=material-palenight&show_icons=true&hide_border=true&layout=compact' >
+<img src='https://github-readme-stats.vercel.app/api?username=brandonkimchi&theme=material-palenight&show_icons=true&hide_border=true&count_private=true' align="left" >
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=brandonkimchi&theme=material-palenight&hide_border=true' align="center">
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=brandonkimchi&theme=material-palenight&show_icons=true&hide_border=true&layout=compact' align="right" >
 <hr/>
 
 
@@ -11,7 +11,7 @@
 <img src='https://github.com/brandonkimchi/brandonkimchi/blob/main/anime%20profile.jpeg' width="150" align="center">
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=brandonkimchi.brandonkimchi" /> 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Brandon+Kim!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Brandon+Kim!;" />
 </h1>
 
 <h3 align="center"> Computer Science and Design Undergraduate at Singapore University of Technology and Design (SUTD) </h3>
