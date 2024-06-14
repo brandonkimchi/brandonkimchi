@@ -1,8 +1,11 @@
 ###
 
 <br>
+
+Use `?theme=THEME_NAME` parameter like so:
+
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonkimchi&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 ```
 ![brandonkimchi's Stats](https://github-readme-stats.vercel.app/api?username=brandonkimchi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![brandonkimchi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=brandonkimchi&theme=tokyonight&hide_border=false)
