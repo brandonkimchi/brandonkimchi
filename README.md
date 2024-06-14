@@ -6,7 +6,7 @@
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=brandonkimchi&theme=material-palenight&hide_border=true' align="left" width="350">
 
 
-<br
+<br>
     
 <div align="center">
 
