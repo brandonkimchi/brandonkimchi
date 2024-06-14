@@ -1,9 +1,7 @@
 ###
 <div align="center">
-  <h2>
 <img src='https://github.com/brandonkimchi/brandonkimchi/blob/main/anime%20profile.jpeg' width="150" align="right">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brandonkimchi.brandonkimchi" />
-</h2>
   <br>
   <br/><br/><br/>
 </div>
