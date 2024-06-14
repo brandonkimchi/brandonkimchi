@@ -1,14 +1,13 @@
 ###
 
-<div>
+
 <img src='https://github.com/brandonkimchi/brandonkimchi/blob/main/anime%20profile.jpeg' width="150" align="right">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brandonkimchi.brandonkimchi" /> 
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=brandonkimchi&theme=material-palenight&hide_border=true' align="left" width="350">
 
-</div>
+
 <br>
 
-<hr/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Brandon+Kim!;" />
