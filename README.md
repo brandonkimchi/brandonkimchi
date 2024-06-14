@@ -35,6 +35,7 @@
 ⚡ Fun fact **I enjoy playing football**
 
  </div>
+[<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" width="25"/>](https://github.com/user/repository/subscription)
  
 <div align="center"> 
   <a href="brandonkim.184@gmail.com">
