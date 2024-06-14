@@ -1,7 +1,7 @@
 ###
 
 <br>
-<img src='https://github-readme-stats.vercel.app/api?username=brandonkimchi&theme=material-palenight&show_icons=true&hide_border=true&count_private=true' align="center" width="300">
+<img src='https://github-readme-stats.vercel.app/api?username=brandonkimchi&theme=material-palenight&show_icons=true&hide_border=true&count_private=true' align="left" width="400">
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=brandonkimchi&theme=material-palenight&hide_border=true' align="center" width="400">
 
 
@@ -41,7 +41,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,c,java,nextjs," /><br>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=brandonkimchi&theme=material-palenight&show_icons=true&hide_border=true&layout=compact' align="center" width="300" marginTop= "100">
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=brandonkimchi&theme=material-palenight&show_icons=true&hide_border=true&layout=compact' align="center" width="300">
 </div>
 
 <br/>
