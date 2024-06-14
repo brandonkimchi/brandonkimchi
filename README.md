@@ -1,9 +1,9 @@
 ###
 
 <br>
-<img src='https://github-readme-stats.vercel.app/api?username=brandonkimchi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true' height="300" width="300" align="right" >
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=brandonkimchi&theme=tokyonight&hide_border=false' height="300" width="300" align="right" >
-<img src='https://github.com/brandonkimchi/brandonkimchi/blob/main/anime%20profile.jpeg' height="300" width="300" align="right" >
+<img src='https://github-readme-stats.vercel.app/api?username=brandonkimchi&theme=material-palenight&show_icons=true&hide_border=true&count_private=true' height="300" width="300" align="right" >
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=brandonkimchi&theme=material-palenight&hide_border=true' height="300" width="300" align="right" >
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=brandonkimchi&theme=material-palenight&show_icons=true&hide_border=true&layout=compact' height="300" width="300" align="right" >
 <hr/>
 
 
