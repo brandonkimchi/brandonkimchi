@@ -1,8 +1,16 @@
 ###
-
+<br/>
+<hr/>
 
 <img src='https://github.com/brandonkimchi/brandonkimchi/blob/main/anime%20profile.jpeg' width="150" align="right">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brandonkimchi.brandonkimchi" /> 
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Brandon+Kim!;" />
 </h1>
@@ -50,5 +58,6 @@
 </div>
 
 <hr/>
+
 
 
