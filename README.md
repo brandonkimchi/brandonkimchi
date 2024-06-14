@@ -1,12 +1,9 @@
 ###
 
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-brandonkimchi.vercel.app/?user=brandonkimchi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-brandonkimchi.vercel.app/api?username=brandonkimchi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-brandonkimchi.vercel.app/api/top-langs/?username=brandonkimchi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+![brandonkimchi's Stats](https://github-readme-stats.vercel.app/api?username=brandonkimchi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![brandonkimchi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=brandonkimchi&theme=tokyonight&hide_border=false)
+![brandonkimchi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonkimchi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 <br/><br/>
 
