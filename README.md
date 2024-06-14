@@ -1,10 +1,10 @@
 ###
+<img src='https://github.com/brandonkimchi/brandonkimchi/blob/main/anime%20profile.jpeg' width="150" align="right">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brandonkimchi.brandonkimchi" /> 
 
 <br>
 <img src='https://github-readme-stats.vercel.app/api?username=brandonkimchi&theme=material-palenight&show_icons=true&hide_border=true&count_private=true' align="center" width="350">
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=brandonkimchi&theme=material-palenight&hide_border=true' align="center" width="350">
-<img src='https://github.com/brandonkimchi/brandonkimchi/blob/main/anime%20profile.jpeg' width="150" align="right">
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brandonkimchi.brandonkimchi" /> 
 
 <hr/>
 
