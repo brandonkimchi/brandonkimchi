@@ -1,7 +1,7 @@
 ###
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Brandon+Kim!;"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Brandon+Kim!;"/ align="center">
 <h3 align="center"> Computer Science and Design Undergraduate at Singapore University of Technology and Design (SUTD) </h3>
 
 <div align="left">
