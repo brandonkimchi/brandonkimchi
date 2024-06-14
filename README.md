@@ -2,7 +2,6 @@
 
 <br>
 
-Use `Welcome` parameter like so:
 ![brandonkimchi's Stats](https://github-readme-stats.vercel.app/api?username=brandonkimchi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![brandonkimchi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=brandonkimchi&theme=tokyonight&hide_border=false)
 ![brandonkimchi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonkimchi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
