@@ -3,7 +3,7 @@
 <img src='https://github.com/brandonkimchi/brandonkimchi/blob/main/anime%20profile.jpeg' width="150" align="right">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brandonkimchi.brandonkimchi" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Brandon+Kim!;" align="left"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Brandon+Kim!;"/>
 <h3 align="left"> Computer Science and Design Undergraduate at Singapore University of Technology and Design (SUTD) </h3>
 
 <div align="left">
