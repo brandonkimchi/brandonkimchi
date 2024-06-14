@@ -12,9 +12,8 @@
  
  🌱 I’m currently learning **Azure Cosmos DB**
 
-💬 You can reach me on brandon_kim@mymail.sutd.edu.sg
+💬 You can reach me on **brandon_kim@mymail.sutd.edu.sg**
 
-⚡ Fun fact **I enjoy playing football**
 
  <a href="https://www.linkedin.com/in/brandonkimeshawn/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
