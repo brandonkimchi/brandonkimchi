@@ -24,7 +24,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  🔭 I’m currently working on **a mobile app for HR leave management system**
  
