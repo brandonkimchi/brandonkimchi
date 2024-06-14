@@ -8,7 +8,7 @@
 
 <hr/>
 
-<img align="right" height="150" src="![anime profile](https://github.com/brandonkimchi/brandonkimchi/assets/168676986/dcec500f-5539-45db-84c0-40bdca54dce3)"  />
+<img align="right" height="150" src="https://imgflip.com/gif/8ttvya"  />
 
 ###
 
