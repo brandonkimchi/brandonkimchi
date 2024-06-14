@@ -1,6 +1,5 @@
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brandonkimchi.brandonkimchi" />
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Brandon+Kim!;"/>
 <h3 align="center"> Computer Science and Design Undergraduate at Singapore University of Technology and Design (SUTD) </h3>
@@ -18,6 +17,8 @@
  <a href="https://www.linkedin.com/in/brandonkimeshawn/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brandonkimchi.brandonkimchi" />
 </div>
 
 
