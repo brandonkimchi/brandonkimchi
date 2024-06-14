@@ -13,7 +13,7 @@
 
 <br clear="both">
 
-
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brandonkimchi.brandonkimchi" /> 
 
 <h1 align="center">
