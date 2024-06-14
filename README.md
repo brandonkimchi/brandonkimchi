@@ -1,7 +1,4 @@
 ###
-<br/>
-<hr/>
-
 <div align="center">
   <h2>
 <img src='https://github.com/brandonkimchi/brandonkimchi/blob/main/anime%20profile.jpeg' width="150" align="right">
