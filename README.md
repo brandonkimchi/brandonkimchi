@@ -6,12 +6,15 @@
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=brandonkimchi&theme=material-palenight&hide_border=true' align="left" width="350">
 
 
-<br>
-
+<br
+    
+<div align="center">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Brandon+Kim!;" />
 </h1>
+
+</div>
 
 <h3 align="center"> Computer Science and Design Undergraduate at Singapore University of Technology and Design (SUTD) </h3>
 
