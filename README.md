@@ -14,7 +14,6 @@
 
 <h3 align="center"> Computer Science and Design Undergraduate at Singapore University of Technology and Design (SUTD) </h3>
 
-<br/>
 
 <div align="left">
  
