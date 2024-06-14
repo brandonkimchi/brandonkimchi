@@ -1,14 +1,13 @@
 ###
 
 <br>
-<img src='https://github.com/brandonkimchi/brandonkimchi/blob/main/anime%20profile.jpeg' height="150" width="150" align="right" >
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brandonkimchi.brandonkimchi" /> 
 ![brandonkimchi's Stats](https://github-readme-stats.vercel.app/api?username=brandonkimchi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![brandonkimchi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=brandonkimchi&theme=tokyonight&hide_border=false)
 ![brandonkimchi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonkimchi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
+<img src='https://github.com/brandonkimchi/brandonkimchi/blob/main/anime%20profile.jpeg' height="150" width="150" align="right" >
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brandonkimchi.brandonkimchi" /> 
 <hr/>
-
 
 ###
 
