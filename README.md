@@ -7,8 +7,7 @@
 ![brandonkimchi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonkimchi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 <hr/>
-<img src="![anime profile](https://github.com/brandonkimchi/brandonkimchi/assets/168676986/73ad331a-bc5c-4db6-a197-69f9b9b66018)
-" height="150" width="150" >
+<img src=![anime profile](https://github.com/brandonkimchi/brandonkimchi/assets/168676986/73ad331a-bc5c-4db6-a197-69f9b9b66018) height="150" width="150" >
 
 
 ###
