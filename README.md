@@ -7,7 +7,6 @@
 
 <hr/>
 <img src='https://github.com/brandonkimchi/brandonkimchi/blob/main/anime%20profile.jpeg' height="150" width="150" align="right" >
-###
 
 <br clear="both">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=brandonkimchi.brandonkimchi" /> 
