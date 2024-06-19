@@ -34,7 +34,7 @@
 
 <div align="center">
   <br>
-  ![Snake animation](https://github.com/brandonkimchi/brandonkimchi/blob/main/workflows/snake.yml)
+  ![Snake animation](https://github.com/brandonkimchi/brandonkimchi/blob/main/.github/workflows/snake.yml)
   
   <br/><br/><br/>
 </div>
