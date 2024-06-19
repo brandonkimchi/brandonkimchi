@@ -34,8 +34,6 @@
 
 <div align="center">
   <br>
-  ![Snake animation](https://github.com/brandonkimchi/brandonkimchi/blob/main/.github/workflows/snake.yml)
-  ![snake animation](https://github.com/<brandonkimchi>/<brandonkimchi>/blob/output/github-contribution-grid-snake2.svg)
  
   
   <br/><br/><br/>
