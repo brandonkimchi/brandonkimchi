@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **a mobile app for HR leave management system**
  
- 🌱 I’m currently learning **Azure Cosmos DB**
+ 🌱 I’m currently learning **YOLO11**
 
 💬 You can reach me on **brandon_kim@mymail.sutd.edu.sg**
 
