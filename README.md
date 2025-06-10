@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **a mobile app for HR leave management system**
  
- 🌱 I’m currently learning **YOLO11**
+ 🌱 I’m currently building a game on **Godot**
 
 💬 You can reach me on **brandon_kim@mymail.sutd.edu.sg**
 
