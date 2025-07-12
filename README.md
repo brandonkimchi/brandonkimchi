@@ -10,7 +10,7 @@
  
  🔭 I’m currently in the process of creating my website with some **Three.js** implementation
 
-💬 You can reach me on **brandon_kim@mymail.sutd.edu.sg**
+💬 You can reach me on **brandon_kim@mymail.sutd.edu.sg** or **brandonkim.184@gmail.com**
 
 
  <a href="https://www.linkedin.com/in/brandonkimeshawn/">
