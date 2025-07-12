@@ -8,7 +8,7 @@
 
 <div align="left">
  
- 🔭 I’m currently building a game on **Godot**
+ 🔭 I’m currently in the process of creating my website with some **Three.js** implementation
 
 💬 You can reach me on **brandon_kim@mymail.sutd.edu.sg**
 
