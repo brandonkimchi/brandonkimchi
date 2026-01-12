@@ -28,7 +28,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,androidstudio,firebase" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,java,nextjs,docker,kubernetes,godot" /><br>
-    <img src="https://skillicons.dev/icons?i=aws,postgresql,jest,cypress,vite,jmeter,prisma,fastapi,flask,flutter,gcp,kafka" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,postgresql,jest,cypress,vite,mysql,prisma,fastapi,flask,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=gcp,kafka,nginx,postman,pytorch,tensorflow,sql,supabase,ubuntu" /><br>
 
 
 <div align="center">
